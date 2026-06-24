@@ -28,7 +28,9 @@ That's it. You don't need badges, animations, or a long bio. Clarity beats decor
 
 ## About
 
-For more than a decade at MyComputerCareer, I’ve taught Networking I and Computer & Security Essentials (Microsoft Azure AI Fundamentals, AI‑901). I’m dedicated to helping students grow their skills, strengthen their confidence, and achieve meaningful success in the IT industry. Know Your Vision --> Defend Your Vision --> Live Your Vision
+For more than a decade at MyComputerCareer, I’ve taught Networking I and Computer & Security Essentials (Microsoft Azure AI Fundamentals, AI‑901). I’m dedicated to helping students grow their skills, strengthen their confidence, and achieve meaningful success in the IT industry.
+
+Know Your Vision --> Defend Your Vision --> Live Your Vision
 
 ---
 
