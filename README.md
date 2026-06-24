@@ -80,8 +80,6 @@ If you're staying inside one network, you're switching. If you're crossing betwe
 DHCP automatically assigns IP addresses, subnet masks, default gateways, and DNS servers to devices joining a network, so no one has to configure those settings by hand.
 </details>
 
-This `<details>` and `<summary>` pattern is plain Markdown — no extra tools required. It's a simple way to make any README feel interactive.
-
 ---
 
 ## Certifications
