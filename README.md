@@ -36,8 +36,8 @@ I teach Networking I and Computer & Security Essentials (Microsoft Azure AI Fund
 
 This is what a completed, presentable project looks like once you're ready to feature it here.
 
-**AI-901 Study Resource Site**
-A self-contained study site built for the Microsoft AI-901 certification exam — covering all exam domains with a structured guide, a quick reference card, and interactive practice challenges.
+**Russ' Portal**
+A self-contained study site built for your classes with me. It covers all exam domains with a structured guide, a quick reference card, and interactive practice challenges.
 
 **[View the live site →](https://ai-901.vercel.app/)**
 
@@ -67,12 +67,6 @@ This `<details>` and `<summary>` pattern is plain Markdown — no extra tools re
 
 ## Certifications
 
-CISSP
-
----
-
-## Contact
-
-MyComputerCareer · Raleigh, NC
+CISSP, SSCP, SecurityX, CySA+, Security+, CCSK, Cloud+, Network+, A+, Project+, Server+,Cloud Essentials+, Azure Fundamentals, ITIL v3, Lean Six Sigma White Belt
 
 </div>
