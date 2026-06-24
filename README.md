@@ -2,7 +2,7 @@
 
 # Russ Munisteri, CISSP
 
-### Lead Instructor, MyComputerCareer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1500&color=1A56DB&center=true&vCenter=true&width=500&lines=Lead+Instructor%2C+MyComputerCareer)](https://www.mycomputercareer.edu/)
 
 </div>
 
@@ -49,10 +49,29 @@ When you reach this stage with your own project, this is the format to follow: o
 
 A good README often includes a small interactive piece to test understanding, the same way a good study guide does. Try this one.
 
+```mermaid
+flowchart LR
+    A[Laptop] --> S[Switch]
+    B[Desktop] --> S
+    C[Printer] --> S
+    S -->|MAC addresses| S
+    S --> R[Router]
+    R -->|IP addresses| I[Internet]
+
+    style S fill:#9FE1CB,stroke:#0F6E56,color:#04342C
+    style R fill:#F0997B,stroke:#993C1D,color:#4A1B0C
+    style A fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style B fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style C fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style I fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+```
+
+A switch connects devices within the same local network and forwards traffic using MAC addresses. A router connects different networks together and forwards traffic using IP addresses.
+
 <details>
 <summary><b>What's the difference between a switch and a router?</b></summary>
 <br>
-A switch connects devices within the same local network and forwards traffic using MAC addresses. A router connects different networks together and forwards traffic using IP addresses. If you're staying inside one network, you're switching. If you're crossing between networks, you're routing.
+If you're staying inside one network, you're switching. If you're crossing between networks, you're routing. The diagram above shows exactly that boundary.
 </details>
 
 <details>
@@ -67,6 +86,6 @@ This `<details>` and `<summary>` pattern is plain Markdown — no extra tools re
 
 ## Certifications
 
-CISSP, SSCP, SecurityX, CySA+, Security+, CCSK, Cloud+, Network+, A+, Project+, Server+,Cloud Essentials+, Azure Fundamentals, ITIL v3, Lean Six Sigma White Belt
+`CISSP` `SSCP` `SecurityX` `CySA+` `Security+` `CCSK` `Cloud+` `Network+` `A+` `Project+` `Server+` `Cloud Essentials+` `Azure Fundamentals` `ITIL v3` `Lean Six Sigma White Belt`
 
 </div>
