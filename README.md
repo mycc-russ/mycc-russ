@@ -1,133 +1,108 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22mycc-russ%22%2C%22name%22%3A%22Russ%20Munisteri%22%2C%22email%22%3A%22russ.munisteri%40mycomputercareer.edu%22%2C%22linkedin%22%3A%22linkedin.com%2Fin%2Fmunruss%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Passionate%20IT%20and%20Cybersecurity%20candidate%20completing%20intensive%20technical%20training%20at%20MyComputerCareer.%20Combines%20strong%20diagnostic%20skills%20with%20a%20dedicated%20customer-first%20approach%20to%20resolve%20user%20issues%20quickly.%20Seeking%20an%20entry-level%20technical%20support%20role%20to%20apply%20core%20competencies%20in%20network%20management%2C%20system%20security%2C%20and%20infrastructure%20support.%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22Operating%20Systems%22%2C%22Command%20Line%22%2C%22Virtualization%22%2C%22PC%20Assembly%22%2C%22Python%22%2C%22DNS%22%2C%22DHCP%22%2C%22Subnetting%22%2C%22CompTIA%20Security%2B%22%2C%22Microsoft%20Azure%22%2C%22Troubleshooting%22%2C%22Automation%22%2C%22Zero%20Trust%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Systems%20Administrator%22%2C%22Cybersecurity%20Professional%22%2C%22Cloud%20Architect%22%2C%22Help%20Desk%20Specialist%22%2C%22Network%20Engineer%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22CISSP%22%2C%22issuer%22%3A%22IS2%22%2C%22link%22%3A%22%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22Stil%20wife's%20passwords%22%2C%22desc%22%3A%22She%20was%20not%20happy%22%2C%22link%22%3A%22https%3A%2F%2Furcybersecurity.com%22%2C%22status%22%3A%22in_progress%22%7D%2C%7B%22name%22%3A%22Hacked%20Windows%22%2C%22desc%22%3A%22Made%20fun%20of%20Bill%20Gates!%22%2C%22link%22%3A%22urcybersecurity.com%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
-
 <div align="center">
 
-<img src="https://github.com/mycc-russ.png" width="130" style="border-radius:50%; border:3px solid #0969da; padding: 3px;" alt="Russ Munisteri Avatar"/>
+# Russ Munisteri, CISSP
 
-# Hi, I'm Russ Munisteri 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0969DA&center=true&vcenter=true&width=500&height=40&lines=IT+Professional;Systems+Administrator;Help+Desk+Specialist;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munruss)
-[![GitHub](https://img.shields.io/badge/GitHub-mycc--russ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycc-russ)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russ.munisteri@mycomputercareer.edu)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1500&color=1A56DB&center=true&vCenter=true&width=500&lines=Lead+Instructor%2C+MyComputerCareer)](https://www.mycomputercareer.edu/)
 
 </div>
 
 ---
 
-## 📌 Professional Summary
-
-> Passionate IT and Cybersecurity candidate completing intensive technical training at MyComputerCareer. Combines strong diagnostic skills with a dedicated customer-first approach to resolve user issues quickly. Seeking an entry-level technical support role to apply core competencies in network management, system security, and infrastructure support.
+> **For students:** This README is both my profile page and a working example of how to build your own. Everything below the next divider is annotated so you can see *why* each section exists, not just *what* it says. Copy the structure, then replace the content with your own.
 
 ---
 
-## 🛠 Tech Stack & Core Competencies
+## How this page works (read this first)
 
-<table>
-  <tr>
-    <td width="30%"><strong>🖥️ Systems & Support</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=flat-square&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Command_Line-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" />
-      <img src="https://img.shields.io/badge/Virtualization-2268BC?style=flat-square&logo=virtualbox&logoColor=white" />
-      <img src="https://img.shields.io/badge/PC_Assembly-0969da?style=flat-square" />
-      <img src="https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>🌐 Networking</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/DNS-0969da?style=flat-square" />
-      <img src="https://img.shields.io/badge/DHCP-0969da?style=flat-square" />
-      <img src="https://img.shields.io/badge/Subnetting-0969da?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>🔒 Cybersecurity</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zero_Trust-0969da?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>☁️ Cloud & Automation</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Automation-0969da?style=flat-square" />
-    </td>
-  </tr>
-</table>
+A GitHub profile README lives in a repository named exactly the same as your username. GitHub automatically displays it at the top of your profile.
+
+What makes a good one:
+
+- **A clear header** — who you are, in one line
+- **A short "about" section** — what you're learning or working on, in plain language
+- **One or two featured projects** — link to something you actually built, with a one-line description of what it does
+- **Nothing you can't back up** — only link to work that's finished enough to show
+
+That's it. You don't need badges, animations, or a long bio. Clarity beats decoration every time.
 
 ---
 
-## 🏆 Certifications & Credentials
+## About
 
-| Certification | Issuing Organization | Status / Verification |
-| :--- | :--- | :---: |
-| **CISSP** | (ISC)² | 🏅 Verified |
+For more than a decade at MyComputerCareer, I’ve taught Networking I and Computer & Security Essentials (Microsoft Azure AI Fundamentals, AI‑901). I’m dedicated to helping students grow their skills, strengthen their confidence, and achieve meaningful success in the IT industry.
+
+**Know Your Vision --> Defend Your Vision --> Live Your Vision**
 
 ---
 
-## 📁 Interactive Course Portfolio
+## Example: A Finished Student-Style Project
 
-<details open>
-<summary><strong>Course 1: Networking I</strong></summary>
+This is what a completed, presentable project looks like once you're ready to feature it here.
+
+**Russ' Portal**
+A self-contained study site built for your classes with me. It covers all exam domains with a structured guide, a quick reference card, and interactive practice challenges.
+
+**[View the live site →](https://ai-901.vercel.app/)**
+
+When you reach this stage with your own project, this is the format to follow: one bolded title, one sentence describing what it does, one live link.
+
+---
+
+## Quick Check: Could You Explain This?
+
+A good README often includes a small interactive piece to test understanding, the same way a good study guide does. Try this one.
+
+```mermaid
+flowchart LR
+    A[Laptop] --> S[Switch]
+    B[Desktop] --> S
+    C[Printer] --> S
+    S -->|MAC addresses| S
+    S --> R[Router]
+    R -->|IP addresses| I[Internet]
+    style S fill:#9FE1CB,stroke:#0F6E56,color:#04342C
+    style R fill:#F0997B,stroke:#993C1D,color:#4A1B0C
+    style A fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style B fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style C fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style I fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+```
+
+A switch connects devices within the same local network and forwards traffic using MAC addresses. A router connects different networks together and forwards traffic using IP addresses.
+
+<details>
+<summary><b>What's the difference between a switch and a router?</b></summary>
 <br>
-
-| Lab / Project | Objective / Focus | Status | Repository |
-| :--- | :--- | :---: | :---: |
-| **Password Auditing Lab** | Auditing weak user credentials & security policies | 🔄 In Progress | [View Project](https://urcybersecurity.com) |
-| **Windows Security Testing** | Endpoint security, policy testing, and vulnerability auditing | ✅ Complete | [View Project](https://urcybersecurity.com) |
-
+If you're staying inside one network, you're switching. If you're crossing between networks, you're routing. The diagram above shows exactly that boundary.
 </details>
 
 <details>
-<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
-
-> *Labs and projects currently in progress.*
-
-</details>
-
-<details>
-<summary><strong>Course 3: Operating Systems I</strong></summary>
-
-> *Labs and projects currently in progress.*
-
-</details>
-
-<details>
-<summary><strong>Course 4: Security I</strong></summary>
-
-> *Labs and projects currently in progress.*
-
-</details>
-
-<details>
-<summary><strong>Course 5: Server I</strong></summary>
-
-> *Labs and projects currently in progress.*
-
-</details>
-
-<details>
-<summary><strong>Course 6: Networking & Security I</strong></summary>
-
-> *Labs and projects currently in progress.*
-
+<summary><b>What does DHCP actually do?</b></summary>
+<br>
+DHCP automatically assigns IP addresses, subnet masks, default gateways, and DNS servers to devices joining a network, so no one has to configure those settings by hand.
 </details>
 
 ---
 
-<div align="center">
+## Live Cybersecurity Threat Map
 
-### 📊 GitHub Activity Profile
+> **A note on how this works:** GitHub README pages don't run embedded scripts or iframes, so a live map can't update *inside* this page. Instead, this links out to a real, currently-running threat map. This is the same pattern as the "Russ' Portal" project above — a short description, then a live link — and it's the honest way to include "live" data on a static Markdown page.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mycc-russ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Russ's GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mycc-russ&theme=tokyonight&hide_border=true" alt="Russ's GitHub Streak" width="48%" />
+**Kaspersky Cyberthreat Real-Time Map**
+A live global visualization of ongoing cyberattacks — malicious file detections, intrusion attempts, vulnerability scans, and more — pulled from real sensor data as it happens. Useful for spotting which attack types and regions are most active right now, and for connecting classroom concepts (DDoS, malware, phishing) to real-world traffic.
 
-<br><br>
+**[Launch the live map →](https://cybermap.kaspersky.com/)**
 
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputerCareer Digital Portfolio Builder</a> · ITSA Program</sub>
+<details>
+<summary><b>Why look at a threat map at all?</b></summary>
+<br>
+A threat map won't tell you everything about the security landscape, but it makes an abstract idea concrete: attacks are constant, global, and automated. That context matters when you're learning why controls like firewalls, IDS/IPS, and patch management exist in the first place.
+</details>
+
+---
+
+## Certifications
+
+`CISSP` `SSCP` `SecurityX` `CySA+` `Security+` `CCSK` `Cloud+` `Network+` `A+` `Project+` `Server+` `Cloud Essentials+` `Azure Fundamentals` `ITIL v3` `Lean Six Sigma White Belt`
+
 </div>
