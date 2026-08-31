@@ -2,97 +2,132 @@
 
 <div align="center">
 
-<img src="https://github.com/mycc-russ.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/mycc-russ.png" width="130" style="border-radius:50%; border:3px solid #0969da; padding: 3px;" alt="Russ Munisteri Avatar"/>
 
-# Hi there, I'm Russ Munisteri
+# Hi, I'm Russ Munisteri 👋
 
-**Russ Munisteri**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0969DA&center=true&vcenter=true&width=500&height=40&lines=IT+Professional;Systems+Administrator;Help+Desk+Specialist;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
-*IT Professional*
-
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munruss) [![GITHUB](https://img.shields.io/badge/GITHUB-%40mycc-russ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycc-russ) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russ.munisteri@mycomputercareer.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munruss)
+[![GitHub](https://img.shields.io/badge/GitHub-mycc--russ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycc-russ)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russ.munisteri@mycomputercareer.edu)
 
 </div>
 
 ---
 
-## Professional Summary
+## 📌 Professional Summary
 
-Motivated IT professional currently pursuing formal hands-on training at MyComputerCareer to build a strong foundation in technical support and network administration. Eager to leverage developing troubleshooting abilities and customer service skills in an entry-level help desk role. Dedicated to solving user problems efficiently while expanding expertise in hardware, software, and system maintenance. Passionate about starting a long-term technology career and delivering reliable technical assistance to keep organizational operations running smoothly.
-
----
-
-## Skills Learned
-
-🖥️ Tech Essentials: ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-0969da?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0969da?style=flat-square) ![Virtualization](https://img.shields.io/badge/Virtualization-0969da?style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-0969da?style=flat-square)
-
-🌐 Networking & Security: ![DNS](https://img.shields.io/badge/DNS-0969da?style=flat-square) ![DHCP](https://img.shields.io/badge/DHCP-0969da?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-0969da?style=flat-square)
-
-💻 Programming Languages & Tools: ![Python](https://img.shields.io/badge/Python-0969da?style=flat-square) ![Automation](https://img.shields.io/badge/Automation-0969da?style=flat-square)
-
-🔒 Cybersecurity: ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0969da?style=flat-square) ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-0969da?style=flat-square)
-
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0969da?style=flat-square)
+> Motivated IT professional currently pursuing formal hands-on training at **MyComputerCareer** to build a strong foundation in technical support and network administration. Eager to leverage developing troubleshooting abilities and customer service skills in an entry-level help desk role. Dedicated to solving user problems efficiently while expanding expertise in hardware, software, and system maintenance to keep organizational operations running smoothly.
 
 ---
 
-## 🏆 Certifications & Digital Badges
+## 🛠 Tech Stack & Core Competencies
 
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
-| CISSP | IS2 | — | — |
+<table>
+  <tr>
+    <td width="30%"><strong>🖥️ Systems & Support</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/Command_Line-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" />
+      <img src="https://img.shields.io/badge/Virtualization-2268BC?style=flat-square&logo=virtualbox&logoColor=white" />
+      <img src="https://img.shields.io/badge/PC_Assembly-0969da?style=flat-square" />
+      <img src="https://img.shields.io/badge/Troubleshooting-0969da?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>🌐 Networking</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/DNS-0969da?style=flat-square" />
+      <img src="https://img.shields.io/badge/DHCP-0969da?style=flat-square" />
+      <img src="https://img.shields.io/badge/Subnetting-0969da?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>🔒 Cybersecurity</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zero_Trust-0969da?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>☁️ Cloud & Automation</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-0969da?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Course Portfolio
+## 🏆 Certifications & Credentials
 
-<details>
+| Certification | Issuing Organization | Status / Verification |
+| :--- | :--- | :---: |
+| **CISSP** | (ISC)² | 🏅 Verified |
+
+---
+
+## 📁 Interactive Course Portfolio
+
+<details open>
 <summary><strong>Course 1: Networking I</strong></summary>
+<br>
 
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Stil wife's passwords | She was not happy | 🔄 In Progress | [Open](https://urcybersecurity.com) |
-| Hacked Windows | Made fun of Bill Gates! | ✅ Complete | [Open](urcybersecurity.com) |
+| Lab / Project | Objective / Focus | Status | Repository |
+| :--- | :--- | :---: | :---: |
+| **Password Auditing Lab** | Auditing weak user credentials & security policies | 🔄 In Progress | [View Project](https://urcybersecurity.com) |
+| **Windows Security Testing** | Endpoint security, policy testing, and vulnerability auditing | ✅ Complete | [View Project](https://urcybersecurity.com) |
 
 </details>
 
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
 
-*No labs added yet.*
+> *Labs and projects currently in progress.*
 
 </details>
 
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
 
-*No labs added yet.*
+> *Labs and projects currently in progress.*
 
 </details>
 
 <details>
 <summary><strong>Course 4: Security I</strong></summary>
 
-*No labs added yet.*
+> *Labs and projects currently in progress.*
 
 </details>
 
 <details>
 <summary><strong>Course 5: Server I</strong></summary>
 
-*No labs added yet.*
+> *Labs and projects currently in progress.*
 
 </details>
 
 <details>
 <summary><strong>Course 6: Networking & Security I</strong></summary>
 
-*No labs added yet.*
+> *Labs and projects currently in progress.*
 
 </details>
 
 ---
 
 <div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+
+### 📊 GitHub Activity Profile
+
+<img src="https://github-readme-stats.vercel.app/api?username=mycc-russ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Russ's GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mycc-russ&theme=tokyonight&hide_border=true" alt="Russ's GitHub Streak" width="48%" />
+
+<br><br>
+
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputerCareer Digital Portfolio Builder</a> · ITSA Program</sub>
 </div>
