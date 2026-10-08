@@ -1,85 +1,108 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22mycc-russ%22%2C%22name%22%3A%22Russ%20Munisteri%2C%20CISSP%22%2C%22email%22%3A%22russ.munisteri%40mycomputercareer.edu%22%2C%22linkedin%22%3A%22linkedin.com%2Fin%2Fmunruss%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22Motivated%20IT%20professional%20with%20a%20strong%20foundation%20in%20IT%20fundamentals%20with%20a%20focus%20on%20cybersecurity%2C%20networking%20and%20AI.%22%2C%22themeIdx%22%3A4%2C%22skills%22%3A%5B%22Computer%20Hardware%22%2C%22PC%20Assembly%22%2C%22Troubleshooting%22%2C%22TCP%2FIP%22%2C%22DNS%22%2C%22VPN%22%2C%22Firewalls%22%2C%22Subnetting%22%2C%22Microsoft%20Azure%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%2C%22Help%20Desk%20Specialist%22%2C%22Security%20Analyst%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%7B%22name%22%3A%22GitHub%22%2C%22desc%22%3A%22Established%20a%20central%20GitHub%20repository%20to%20showcase%20personal%20projects%2C%20version-controlled%20codebases%2C%20and%20ongoing%20technical%20development.%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%22%2C%22status%22%3A%22complete%22%7D%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
-
 <div align="center">
 
-<img src="https://github.com/mycc-russ.png" width="150" style="border-radius:50%;border:4px solid #cf222e"/>
+# Russ Munisteri, CISSP
 
-# Hi there, I'm Russ Munisteri, CISSP
-
-**Russ Munisteri, CISSP**
-
-*IT Professional*
-
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/munruss) [![GITHUB](https://img.shields.io/badge/GITHUB-%40mycc-russ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mycc-russ) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russ.munisteri@mycomputercareer.edu)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1500&color=1A56DB&center=true&vCenter=true&width=500&lines=Lead+Instructor%2C+MyComputerCareer)](https://www.mycomputercareer.edu/)
 
 </div>
 
 ---
 
-## Professional Summary
-
-Motivated IT professional with a strong foundation in IT fundamentals with a focus on cybersecurity, networking and AI.
+> **For students:** This README is both my profile page and a working example of how to build your own. Everything below the next divider is annotated so you can see *why* each section exists, not just *what* it says. Copy the structure, then replace the content with your own.
 
 ---
 
-## Skills Learned
+## How this page works (read this first)
 
-🖥️ Tech Essentials: ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-cf222e?style=flat-square) ![PC Assembly](https://img.shields.io/badge/PC%20Assembly-cf222e?style=flat-square) ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-cf222e?style=flat-square)
+A GitHub profile README lives in a repository named exactly the same as your username. GitHub automatically displays it at the top of your profile.
 
-🌐 Networking & Security: ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-cf222e?style=flat-square) ![DNS](https://img.shields.io/badge/DNS-cf222e?style=flat-square) ![Subnetting](https://img.shields.io/badge/Subnetting-cf222e?style=flat-square) ![Firewalls](https://img.shields.io/badge/Firewalls-cf222e?style=flat-square) ![VPN](https://img.shields.io/badge/VPN-cf222e?style=flat-square)
+What makes a good one:
 
-☁️ Cloud & DevOps: ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-cf222e?style=flat-square)
+- **A clear header** — who you are, in one line
+- **A short "about" section** — what you're learning or working on, in plain language
+- **One or two featured projects** — link to something you actually built, with a one-line description of what it does
+- **Nothing you can't back up** — only link to work that's finished enough to show
 
----
-
-## Course Portfolio
-
-<details>
-<summary><strong>Course 1: Networking I</strong></summary>
-
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| GitHub | Established a central GitHub repository to showcase personal projects, version-controlled codebases, and ongoing technical development. | ✅ Complete | [Open](https://github.com) |
-
-</details>
-
-<details>
-<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 3: Operating Systems I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 4: Security I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 5: Server I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 6: Networking & Security I</strong></summary>
-
-*No labs added yet.*
-
-</details>
+That's it. You don't need badges, animations, or a long bio. Clarity beats decoration every time.
 
 ---
 
-<div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+## About
+
+For more than a decade at MyComputerCareer, I’ve taught Networking I and Computer & Security Essentials (Microsoft Azure AI Fundamentals, AI‑901). I’m dedicated to helping students grow their skills, strengthen their confidence, and achieve meaningful success in the IT industry.
+
+**Know Your Vision --> Defend Your Vision --> Live Your Vision**
+
+---
+
+## Example: A Finished Student-Style Project
+
+This is what a completed, presentable project looks like once you're ready to feature it here.
+
+**Russ' Portal**
+A self-contained study site built for your classes with me. It covers all exam domains with a structured guide, a quick reference card, and interactive practice challenges.
+
+**[View the live site →](https://ai-901.vercel.app/)**
+
+When you reach this stage with your own project, this is the format to follow: one bolded title, one sentence describing what it does, one live link.
+
+---
+
+## Quick Check: Could You Explain This?
+
+A good README often includes a small interactive piece to test understanding, the same way a good study guide does. Try this one.
+
+```mermaid
+flowchart LR
+    A[Laptop] --> S[Switch]
+    B[Desktop] --> S
+    C[Printer] --> S
+    S -->|MAC addresses| S
+    S --> R[Router]
+    R -->|IP addresses| I[Internet]
+    style S fill:#9FE1CB,stroke:#0F6E56,color:#04342C
+    style R fill:#F0997B,stroke:#993C1D,color:#4A1B0C
+    style A fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style B fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style C fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+    style I fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A
+```
+
+A switch connects devices within the same local network and forwards traffic using MAC addresses. A router connects different networks together and forwards traffic using IP addresses.
+
+<details>
+<summary><b>What's the difference between a switch and a router?</b></summary>
+<br>
+If you're staying inside one network, you're switching. If you're crossing between networks, you're routing. The diagram above shows exactly that boundary.
+</details>
+
+<details>
+<summary><b>What does DHCP actually do?</b></summary>
+<br>
+DHCP automatically assigns IP addresses, subnet masks, default gateways, and DNS servers to devices joining a network, so no one has to configure those settings by hand.
+</details>
+
+---
+
+## Live Cybersecurity Threat Map
+
+> **A note on how this works:** GitHub README pages don't run embedded scripts or iframes, so a live map can't update *inside* this page. Instead, this links out to a real, currently-running threat map. This is the same pattern as the "Russ' Portal" project above — a short description, then a live link — and it's the honest way to include "live" data on a static Markdown page.
+
+**Kaspersky Cyberthreat Real-Time Map**
+A live global visualization of ongoing cyberattacks — malicious file detections, intrusion attempts, vulnerability scans, and more — pulled from real sensor data as it happens. Useful for spotting which attack types and regions are most active right now, and for connecting classroom concepts (DDoS, malware, phishing) to real-world traffic.
+
+**[Launch the live map →](https://cybermap.kaspersky.com/)**
+
+<details>
+<summary><b>Why look at a threat map at all?</b></summary>
+<br>
+A threat map won't tell you everything about the security landscape, but it makes an abstract idea concrete: attacks are constant, global, and automated. That context matters when you're learning why controls like firewalls, IDS/IPS, and patch management exist in the first place.
+</details>
+
+---
+
+## Certifications
+
+`CISSP` `SSCP` `SecurityX` `CySA+` `Security+` `CCSK` `Cloud+` `Network+` `A+` `Project+` `Server+` `Cloud Essentials+` `Azure Fundamentals` `ITIL v3` `Lean Six Sigma White Belt`
+
 </div>
